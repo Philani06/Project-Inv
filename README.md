@@ -1,6 +1,6 @@
 #Smart Attendance System with Face recognition and RFID
 
-(storing the output in database) (Install SQL-Lite Studio)
+(storing the output in database) (Install SQL-Lite Studio for database use)
 
 1.Execute main file train.py in python idle.
 
