@@ -1,7 +1,19 @@
 ### Smart Attendance System using Face recognition and RFID
+```
+Project has been developed and executed on Raspberry PI.
+Components used:
+1.RFID card/tag
+2.RFID Reader
+3.LCD
+4.PI Camera
+5.Raspberry PI 4
+```
+Youtube link:
+```
+https://youtu.be/M4tkA5guvvs
+```
 
 (For storing the output in database install SQL-Lite Studio)
-
 ```
 1.Execute main file train.py in python idle.
 
@@ -40,7 +52,7 @@ Note:The second time you want to take attendance you dont have to give the input
 
 just click on track button,it will track and update the database.
 
-6.Output will be displayed in GUI and also in LCD.
+6.Output will be displayed on GUI and also on LCD.
 ```
 ![Output on database](Output1.png)
 
