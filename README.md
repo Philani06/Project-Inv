@@ -41,6 +41,11 @@ Note:The second time you want to take attendance you dont have to give the input
 just click on track button,it will track and update the database.
 
 6.Output will be displayed in GUI and also in LCD.
+```
+![Output on database](output1.png)
+
+![Output on LCD](output2.png)
+```
 
 7.The future development of the project is to make the PI run automatically.
 ```
