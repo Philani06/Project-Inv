@@ -6,9 +6,9 @@
 1.Execute main file train.py in python idle.
 
 2.A GUI(interface) will open up
-
+```
 ![Main Screen](Main Screen.png)
-
+```
 (i) Enter the id
 
 (ii) Enter the name
