@@ -7,7 +7,7 @@
 
 2.A GUI(interface) will open up
 
-![Main screen](Output\1.png)
+![Main screen](1.png)
 
 (i) Enter the id
 
