@@ -42,9 +42,9 @@ just click on track button,it will track and update the database.
 
 6.Output will be displayed in GUI and also in LCD.
 ```
-![Output on database](output1.png)
+![Output on database](Output1.png)
 
-![Output on LCD](output2.png)
+![Output on LCD](Output2.png)
 ```
 
 7.The future development of the project is to make the PI run automatically.
